@@ -51,16 +51,17 @@
   position: absolute;
 }
 
-.title {
+.content .title {
   font-weight: bold;
-  margin-bottom: 6px;
+  margin-bottom: 3px;
   font-size: 22px;
   color: #4a4a4a;
   text-align: center;
 }
 
-.subtitle {
+.content.subtitle {
   font-weight: lighter;
   font-size: 16px;
   text-align: center;
+  position: absolute;
 }
